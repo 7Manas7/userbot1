@@ -28,11 +28,11 @@ jobs:
 
         with:
 
-          commit_message: 'Replaced new name'
+          commit_message: 'os'
 
           commit_options: '--no-verify'
 
-          repository: .
+          repository: userbot1
 
           commit_user_name: 7manas7
 
