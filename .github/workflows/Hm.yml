@@ -1,5 +1,5 @@
 
-name: LEGENDX
+name: 7manas7
 
 on: push
 
@@ -19,9 +19,8 @@ jobs:
 
         with:
 
-          find: "from userbot.legend"
-
-          replace: "from LEGENDX"
+          find: "os2"
+          replace: "os"
 
       - name: Create Pull Request
 
@@ -35,6 +34,6 @@ jobs:
 
           repository: .
 
-          commit_user_name: LEGENDXOP
+          commit_user_name: 7manas7
 
-          commit_user_email: legendxx08377@gmail.com
+          commit_user_email: 7manas7@gmail.com
