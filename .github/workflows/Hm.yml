@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "from os2"
+          find: "Convey"
 
-          replace: "from os"
+          replace: "Conveying"
 
       - name: Create Pull Request
 
